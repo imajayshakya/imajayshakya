@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/imajayshakya">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -139,9 +139,18 @@ I like turning messy, high-stakes data and AI requirements into dependable produ
 <table>
 <tr><td>
 
+**🏢 Senior Data Engineer**
+**TD Bank**
+`Jul 2026 – Present · Bangalore · Onsite`
+
+*Details to follow — role in progress.*
+
+</td></tr>
+<tr><td>
+
 **🏢 Senior Consultant Data Engineer**
 **EssilorLuxottica · Payroll — Lagozon Technology**
-`Sep 2025 – Present · Bangalore · Onsite`
+`Sep 2025 – Jul 2026 · Bangalore · Onsite`
 
 - Architected and automated complex data pipelines using **schedule, event, and tumbling-window triggers**
 - Built Python extraction services for **text, image, and video APIs**, handling pagination and rate limiting to ingest millions of records reliably
@@ -194,10 +203,16 @@ A full-stack invoice intelligence platform combining document extraction, AI sum
 
 `Python` `Streamlit` `Azure Document Intelligence` `Azure AI Foundry` `Azure Cosmos DB` `NLP`
 
-### 🚗 Smart Vehicle Data Transformation
-End-to-end cloud pipeline processing vehicle telematics data from **1,000+ IoT devices** for real-time fleet analytics.
+### 🛒 Deals & Coupons — Full-Stack Affiliate Automation Engine
+A headless, 24/7 deal-scraping and publishing engine running on a Raspberry Pi.
 
-`AWS S3` `Azure Functions` `Azure Data Factory` `ADLS Gen2` `SQL Server`
+- Listens to major e-commerce Telegram channels and intercepts incoming product links
+- Scrapes and normalizes product data from Indian e-commerce sites
+- Converts raw links into affiliate links automatically
+- Generates branded **Deal Cards** with product images
+- Auto-publishes deals to **Telegram, Instagram, and Facebook**
+
+`Redis` `PostgreSQL` `Telegram API` `Facebook Graph API` `Amazon Creator API`
 
 ### 👁️ Real-Time Face Recognition Attendance System
 Proof-of-concept edge attendance system on Raspberry Pi with **95% face recognition accuracy** and sub-second detection speed.
@@ -245,17 +260,6 @@ Proof-of-concept edge attendance system on Raspberry Pi with **95% face recognit
 ## 🌱 Currently Exploring
 
 `Agentic AI architectures` `LLM-integrated data platforms` `RAG & vector search` `Azure AI Foundry` `Microsoft Fabric` `Advanced Databricks engineering` `Intelligent pipeline automation` `Data quality & self-healing systems`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imajayshakya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ajay's GitHub Stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imajayshakya&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-
-</div>
 
 ---
 
